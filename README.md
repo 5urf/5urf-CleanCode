@@ -7,3 +7,5 @@
 ## [3장. 함수](./assignment4/README.md)
 
 ## [4장. 주석](./assignment5/README.md)
+
+## [MISSION 01 - 더러운 코드를 고쳐라!](./assignment6/README.md)
