@@ -9,3 +9,5 @@
 ## [4장. 주석](./assignment5/README.md)
 
 ## [MISSION 01 - 더러운 코드를 고쳐라!](./assignment6/README.md)
+
+## [5장. 형식 맞추기](./assignment7/README.md)
