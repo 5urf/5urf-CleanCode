@@ -11,3 +11,5 @@
 ## [MISSION 01 - 더러운 코드를 고쳐라!](./assignment6/README.md)
 
 ## [5장. 형식 맞추기](./assignment7/README.md)
+
+## [6장. 객체와 자료구조](./assignment8/README.md)
