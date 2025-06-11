@@ -19,3 +19,5 @@
 ## [9장. 단위 테스트](./assignment11/README.md)
 
 ## [10장. 클래스](./assignment13/README.md)
+
+## [MISSION 02 - 예시 만들기](./assignment14/README.md)
