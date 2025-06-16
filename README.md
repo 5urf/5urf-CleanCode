@@ -16,10 +16,12 @@
 
 ## [7장. 오류처리](./assignment10/README.md)
 
+## [8장. 경계](./chapter8/README.md)
+
 ## [9장. 단위 테스트](./assignment11/README.md)
 
 ## [10장. 클래스](./assignment13/README.md)
 
 ## [MISSION 02 - 예시 만들기](./assignment14/README.md)
 
-## [독후감](./assignment15/README.md)
+## [1-7, 9-10 장독후감](./assignment15/README.md)
