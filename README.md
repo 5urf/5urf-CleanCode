@@ -25,3 +25,5 @@
 ## [MISSION 02 - 예시 만들기](./assignment14/README.md)
 
 ## [1-7, 9-10 장독후감](./assignment15/README.md)
+
+## [12장. 창발성](./chapter12/README.md)
